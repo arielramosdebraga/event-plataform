@@ -4,3 +4,7 @@
     <br>
     <p>Feito curso Ignite Lab da Rocketseat, para primeiro contato com as tecnologias.</p>
 </p>
+
+## Publicação
+
+- [Aplicação](https://event-plataform-sandy.vercel.app/);
